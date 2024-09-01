@@ -51,3 +51,4 @@ function DescobrirElo(pontos) {
 let level = DescobrirElo(pontos);
 
 console.log("Parabéns", NomeDoHeroi,'seu Elo é:', level)
+
